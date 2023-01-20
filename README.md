@@ -1,3 +1,5 @@
+# WCS-Project-3_SPHERUS
+
 ## Concept
 
 This template is meant to serve as a foundation for every P2/P3 following the React-Express-MySQL stack, as learned in Wild Code School.
@@ -33,3 +35,4 @@ It's pre-configured with a set of tools which'll help students produce industry-
 - _Prettier_ : "Quality of code" tool as well, focuses on the styleguide
 - _ Airbnb Standard_ : One of the most known "standards", even though it's not officially linked to ES/JS
 - _Nodemon_ : Allows to restart the server everytime a .js file is udated
+
